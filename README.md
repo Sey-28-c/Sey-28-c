@@ -12,22 +12,11 @@ learning to code, designing UI/UX for my apps, and occasionally building/fixing 
 - 🐍 **python** is my favorite language.
 - 🎨 heavily focused on UI/UX and visual aesthetics for projects.
 - 🎰 most ambitious project so far: a **python casino** featuring blackjack, dice, and roulette.
-- 📚 off-screen: reading, watching anime, and listening to **hard life**.
+- 📚 off-screen: reading, watching anime, drinking piña colada and listening to **hard life**.
 
 ---
 
-### 🛠️ tech stack & tools
-
-![Python](https://img.shields.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Hardware](https://img.shields.shields.io/badge/Hardware_%26_PC_Building-black?style=for-the-badge)
-
-___   _   __  __ 
- |   \ /_\ |  \/  |
- | |) / _ \| |\/| |
- |___/_/ \_\_|  |_|
+<img width="312" height="200" alt="200" src="https://github.com/user-attachments/assets/2c5072be-fe7d-4614-b791-7a64eaf9e037" />
 
 
-> *"survival of the fittest"* 🎧
+> *"y3llow bike"* 🎧
