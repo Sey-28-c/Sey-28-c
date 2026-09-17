@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hello 👷👷
 
-<!--
-**Sey-28-c/Sey-28-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a student surviving coding classes every day (jk I enjoy them) 💂‍♂️
 
-Here are some ideas to get you started:
+If you need help with anything I'll probably won't be able to help you but I'll be happy to at least try 💻🙇‍♂️🙇‍♂️
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
